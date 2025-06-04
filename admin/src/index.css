@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Parisienne&display=swap');
+@import "tailwindcss";
+
+/*
+::-webkit-scrollbar{
+    @apply hidden;
+}
+
+*/
+* {
+    font-family: Outfit;
+}
