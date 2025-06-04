@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Parisienne&display=swap');
+@import "tailwindcss";
+
+
+*{
+font-family: outfit;
+}
+
+.active li {
+    @apply text-blue-200; /* Changes text color on active page */
+}
+
+.active hr {
+    @apply block; /* Shows hr only for active page */
+}
