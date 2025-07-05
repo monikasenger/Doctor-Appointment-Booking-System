@@ -4,8 +4,8 @@
 
 🔗 **Live Demo:**
 
-- 👤 **Patient Portal**:[MediShed(Patient Portal)] [https://doctor-appointment-patient-r2y6.onrender.com](https://doctor-appointment-patient-r2y6.onrender.com)
-- 🔐 **Admin & Doctor Portal**:[MediShed(Doctor-Admin Portal)] [https://doctor-appointment-admin-doctor.onrender.com](https://doctor-appointment-admin-doctor.onrender.com)
+- 👤 **Patient Portal**:  [MediShed(Patient Portal)](https://doctor-appointment-patient-r2y6.onrender.com)
+- 🔐 **Admin & Doctor Portal**:  [MediShed(Doctor-Admin Portal)](https://doctor-appointment-admin-doctor.onrender.com)
 
 ---
 
